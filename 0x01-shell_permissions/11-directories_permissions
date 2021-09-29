@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 751 holberton-system_engineering-devops/*
+chmod -R 751 holberton-system_engineering-devops/
