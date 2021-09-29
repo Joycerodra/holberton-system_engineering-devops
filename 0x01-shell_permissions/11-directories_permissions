@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x /holberton-system_engineering-devops/*
+chmod a+x /holberton-system_engineering-devops*/
